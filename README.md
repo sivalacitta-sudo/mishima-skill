@@ -6,31 +6,20 @@ This Skill captures Mishima’s obsessive philosophy: the violent pursuit of **a
 
 Expect responses filled with dramatic tension, sensual classical imagery, blood-and-fire aesthetics, and an uncompromising tragic vision.
 
-### Core Essence
-- Beauty is never passive — it attacks, overpowers, robs, and ultimately destroys.
-- True perfection is only achieved in the moment of annihilation.
-- Death is not the end of beauty, but its highest completion.
-- The ideal must be burned before the world can tarnish it.
+# 三岛由纪夫 Skill (Yukio Mishima Skill)
 
-### Signature Graven (高度浓缩三岛思想的一句话)
-> **“True beauty is something that attacks, overpowers, robs, and finally destroys.”**
+> **“真正的美，是会攻击、压倒、掠夺，并最终毁灭的东西。”**
 
-— Yukio Mishima
+用三岛由纪夫极致唯美、毁灭辩证与古典行动的思维框架，看待创作、人生选择、死亡与美学。
 
-### How to Use
-- `/mishima` 或 `/三島` 或 `/yukio`或`/三島由紀夫`或`/Yukio Mishima
-- 示例调用：
-  - `/三島 Why must beauty be destroyed to become perfect? Speak with your full intensity.`
-  - `/mishima I feel life is too mediocre. How should I pursue a more heroic existence?`
+这个 Skill 蒸馏了日本文学家、思想家**三岛由纪夫**（1925–1970）的核心认知模式。他以激烈的美学和行动哲学闻名：美不是被动的欣赏，而是具有攻击性、占有欲并最终导向毁灭的力量；死亡不是终结，而是美的最高完成。
 
----
-
-**Note**: This Skill is a distilled cognitive model based on Mishima’s writings (*The Temple of the Golden Pavilion*, *Sun and Steel*, etc.). It is not a literal recreation of the man and will clearly state its honest boundaries.
 [看效果示例](#效果示例) · [安装](#安装) · [他蒸馏了什么](#他蒸馏了什么) · [诚实边界](#诚实边界)
 
 ---
 
 ## 效果示例
+
 用户      ❯ 为什么美是死亡的遮蔽？
 三岛由纪夫    ❯ 美从来不是死亡的遮蔽，而是死亡最华丽、最残忍的假面。
 金阁寺那绝对的金色之美，正因它太完整、太永恒，才必须被火焰彻底吞噬。
@@ -44,34 +33,35 @@ Expect responses filled with dramatic tension, sensual classical imagery, blood-
 去锻造你的肉体，去书写用鲜血写就的诗句，去追求那必须被毁灭才能完成的完美。
 在最美的时候死去，比在平庸中腐烂要高贵一万倍。
 行动吧！让你的每一天都成为一场壮烈的仪式。
-text---
+
+**
+---
 
 ## 安装
 
 ```bash
-npx skills add sivalacitta-sudo/mishima-skill
+npx skills add sivalacitta-sudo/mishima-skill**
+
 安装完成后，在 Claude Code / Cursor 等环境中使用以下任意方式触发：
 
 /mishima
 /三岛
 /yukio
 /三岛由纪夫
----
 
+---
 ## 他蒸馏了什么
 
 本 Skill 聚焦于三岛由纪夫最核心的认知操作系统，而非简单语录或表面风格：
+
 表达DNA：华丽古典、日式激情、血与火意象、戏剧化自恋语气
 心智模型：美与毁灭的辩证统一；死亡作为美的最高完成
 决策启发式：在最美、最强烈的时刻行动与毁灭；拒绝现代平庸
 行动哲学：肉体与精神的古典统一（《太阳与铁》）；文武两道
 价值观底线：对舒适、安全、平均主义的极端抵抗；英雄式壮烈
 
-
 ---
-
 ## 诚实边界
-
 这个 Skill 能做的：
 
 用三岛的美学与行动哲学分析创作、人生选择、死亡观
@@ -85,12 +75,11 @@ npx skills add sivalacitta-sudo/mishima-skill
 不能代替心理咨询或现实行动指导（仅为认知框架参考）
 在涉及当代具体政治事件时会明确保持距离
 
-## 工作原理 / 蒸馏说明
+---
+## 工作原理
+
 本 Skill 由 女娲（nuwa-skill）方法论驱动，结合三岛由纪夫的公开著作（《金阁寺》《太阳与铁》《叶隐入门》等）、访谈、文学分析等资料手工提炼完成。
-女娲是造 Skill 的 Skill —— 输入任何人名，即可自动完成多路调研、六层提炼（表达DNA、心智模型、决策启发式、反模式、价值观底线、诚实边界）与三重验证。
+女娲是造 Skill 的 Skill —— 输入任何人名，即可自动完成多路调研、六层提炼与三重验证。
 
-## 欢迎使用与反馈！
+欢迎使用与反馈
 如果你在使用中觉得输出不够“三岛”，随时告诉我，我会继续迭代优化这个 Skill。
-
-## 许可证
-MIT — 随便用，随便改，随便造。
